@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Maksim, a passionate Fullstack React/Node Developer.
+## Hi there! 👋 I'm Maksim, a passionate Full-stack React/Node Developer.
 
 Let's connect and build the future together! 🌟
 
